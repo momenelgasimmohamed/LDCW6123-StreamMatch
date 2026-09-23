@@ -1,0 +1,19 @@
+-- The CXX compiler identification is Clang 17.0.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/local/swift/usr/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python3: /opt/pyvenv/bin/python3 (found version "3.13.5") found components: Interpreter
+-- Configuring done (10.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/data/Netflix_StreamMatch_Project/03_Program/streammatch/build-clang
+[ 16%] Building CXX object CMakeFiles/recommender.dir/src/recommender.cpp.o
+[ 33%] Linking CXX static library librecommender.a
+[ 33%] Built target recommender
+[ 50%] Building CXX object CMakeFiles/streammatch.dir/src/main.cpp.o
+[ 66%] Linking CXX executable streammatch
+[ 66%] Built target streammatch
+[ 83%] Building CXX object CMakeFiles/unit_tests.dir/tests/test_recommender.cpp.o
+[100%] Linking CXX executable unit_tests
+[100%] Built target unit_tests

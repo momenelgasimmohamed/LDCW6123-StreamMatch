@@ -1,0 +1,35 @@
+PASS U01 lower input boundary
+PASS U02 upper input boundary
+PASS U03 surrounding whitespace
+PASS U04 blank rejected
+PASS U05 whitespace-only rejected
+PASS U06 alphabetic rejected
+PASS U07 trailing text rejected
+PASS U08 decimal rejected
+PASS U09 multiple integers rejected
+PASS U10 below range rejected
+PASS U11 above range rejected
+PASS U12 overflow rejected
+PASS U13 exponent notation rejected
+PASS U14 failure preserves output
+PASS U15 expected top match
+PASS U16 shorter runtime breaks score tie
+PASS U17 alternative is labelled honestly
+PASS U18 inclusive age and runtime boundary
+PASS U19 age-zero filter
+PASS U20 no eligible runtime
+PASS U21 empty catalogue
+PASS U22 zero requested results
+PASS U23 result limit
+PASS U24 fewer than three eligible
+PASS U25 no exact preference match
+PASS U26 stable ID tie-break
+PASS U27 reject invalid age API input
+PASS U28 reject invalid genre API input
+PASS U29 reject invalid mood API input
+PASS U30 reject invalid time API input
+PASS U31 catalogue integrity and unique IDs
+PASS U32 display names and fallback
+PASS U33 840 preference combinations preserve constraints and score order
+
+RESULT: 33 passed, 0 failed.
