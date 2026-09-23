@@ -1,0 +1,43 @@
+==============================================
+ STREAMMATCH | Movie Recommendation Assistant
+==============================================
+Netflix-inspired educational prototype.
+All titles and age labels are fictional.
+
+1. Browse catalogue
+2. Recommend a movie
+3. How matching works
+0. Exit
+Choose (0-3): 2
+
+FIND SOMETHING TO WATCH
+Your age (0-120): 23
+Genres: 1 Action | 2 Comedy | 3 Drama | 4 Science fiction
+Preferred genre (1-4): 2
+Moods: 1 Light | 2 Suspense | 3 Thoughtful
+Preferred mood (1-3): 1
+Available minutes (30-240): 95
+
+TOP MATCHES (up to 3)
+
+1. Campus Detour | score 8/8
+   Comedy | Light | 85 min | age 7+
+   Why: genre matches, mood matches; within age and time limits.
+   Two classmates turn a missed bus into an unexpected adventure.
+
+2. Weekend Mix-Up | score 8/8
+   Comedy | Light | 95 min | age 7+
+   Why: genre matches, mood matches; within age and time limits.
+   Three neighbours accidentally exchange their holiday plans.
+
+3. Robot Roommate | score 3/8
+   Science fiction | Light | 80 min | age 0+
+   Why: genre differs, mood matches; within age and time limits.
+   A friendly household robot learns the meaning of cooperation.
+
+1. Browse catalogue
+2. Recommend a movie
+3. How matching works
+0. Exit
+Choose (0-3): 0
+Goodbye. No personal data was stored.

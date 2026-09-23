@@ -1,0 +1,5 @@
+348402e | ChatGPT-assisted draft | 2026-09-23T10:00:02Z | docs: add verified builds, provenance and cross-platform run instructions
+f244822 | ChatGPT-assisted draft | 2026-09-23T09:58:43Z | test: add and run unit and interactive regression coverage
+6ded7b6 | ChatGPT-assisted draft | 2026-09-23T09:57:38Z | feat: add validated console menu and explained recommendations
+804e937 | ChatGPT-assisted draft | 2026-09-23T09:57:09Z | feat: implement fictional catalogue, filters and deterministic ranking
+0d8bce7 | ChatGPT-assisted draft | 2026-09-23T09:57:08Z | docs: define StreamMatch purpose, inputs and matching rules

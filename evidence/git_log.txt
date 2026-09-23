@@ -1,0 +1,5 @@
+* 348402e (HEAD -> main) docs: add verified builds, provenance and cross-platform run instructions
+* f244822 test: add and run unit and interactive regression coverage
+* 6ded7b6 feat: add validated console menu and explained recommendations
+* 804e937 feat: implement fictional catalogue, filters and deterministic ranking
+* 0d8bce7 docs: define StreamMatch purpose, inputs and matching rules
