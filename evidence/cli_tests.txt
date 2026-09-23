@@ -1,0 +1,20 @@
+PASS C01 clean exit
+PASS C02 browse
+PASS C03 explain
+PASS C04 standard match
+PASS C05 no eligible titles
+PASS C06 one eligible title
+PASS C07 honest alternatives
+PASS C08 invalid menu then recover
+PASS C09 invalid age then recover
+PASS C10 invalid genre then recover
+PASS C11 invalid mood then recover
+PASS C12 invalid time then recover
+PASS C13 decimal and trailing text
+PASS C14 blank and overflow
+PASS C15 EOF at menu
+PASS C16 EOF during questions
+PASS C17 surrounding whitespace
+PASS C18 repeat without restarting
+
+RESULT: 18 passed, 0 failed.

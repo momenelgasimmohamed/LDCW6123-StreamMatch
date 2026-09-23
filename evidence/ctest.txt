@@ -1,0 +1,10 @@
+Internal ctest changing into directory: /mnt/data/Netflix_StreamMatch_Project/03_Program/streammatch/build
+Test project /mnt/data/Netflix_StreamMatch_Project/03_Program/streammatch/build
+    Start 1: unit_tests
+1/2 Test #1: unit_tests .......................   Passed    0.08 sec
+    Start 2: cli_tests
+2/2 Test #2: cli_tests ........................   Passed    1.65 sec
+
+100% tests passed, 0 tests failed out of 2
+
+Total Test time (real) =   1.75 sec

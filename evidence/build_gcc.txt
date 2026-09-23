@@ -1,0 +1,9 @@
+-- Found Python3: /opt/pyvenv/bin/python3 (found version "3.13.5") found components: Interpreter
+-- Configuring done (8.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/data/Netflix_StreamMatch_Project/03_Program/streammatch/build
+[ 33%] Built target recommender
+[ 66%] Built target streammatch
+[ 83%] Building CXX object CMakeFiles/unit_tests.dir/tests/test_recommender.cpp.o
+[100%] Linking CXX executable unit_tests
+[100%] Built target unit_tests
