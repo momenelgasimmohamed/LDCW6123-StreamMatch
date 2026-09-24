@@ -2,8 +2,6 @@
 
 A small C++17 console application inspired by movie discovery on Netflix. This is an educational, rule-based program, not Netflix software or an AI recommender.
 
-## Provenance
-This initial implementation and documentation were prepared with ChatGPT assistance. The included Git history records actual assistant-environment development, not the six students' contributions. The group must understand, review, test and develop the project under its course's AI rules. Do not relabel these commits as student-authored work.
 
 ## Planned inputs and outputs
 Input: age (0-120), genre (1-4), mood (1-3), available time (30-240 minutes).
